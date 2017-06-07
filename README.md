@@ -4,4 +4,4 @@ just for study GITHUB
 
 hello，human.I just want say hello
 
-creating a new branch is quick and what?
+Creating a new branch is quick and simple.
