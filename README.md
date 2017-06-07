@@ -3,3 +3,5 @@ just for study GITHUB
 
 
 hello，human.I just want say hello
+
+creating a new branch is quick
